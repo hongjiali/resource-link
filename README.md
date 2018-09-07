@@ -30,3 +30,5 @@ https://developer.android.com/docs/
 [关于VPN](https://www.vpndada.com/)
 
 [一个纠正你输入英文语法的软件。蛮好用](https://www.grammarly.com/)
+
+[算法等各种实用技能（领扣）](https://leetcode.com/)
