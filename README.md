@@ -38,3 +38,5 @@ https://developer.android.com/docs/
 [品葱——一个政事讨论的地方](https://www.pin-cong.com/)
 
 笔记软件 onenote quiver bear mweb
+
+[AWS——亚马逊云服务(比阿里云划算)](https://aws.amazon.com/cn/?nc2=h_lg)
