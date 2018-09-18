@@ -26,6 +26,10 @@ https://developer.android.com/docs/
 ## Python:
 
 
+## Linux
+
+[archlinux](https://wiki.archlinux.org/index.php/Main_page_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+
 ## 其它网站
 
 [关于VPN](https://www.vpndada.com/)
