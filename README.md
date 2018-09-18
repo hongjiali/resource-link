@@ -13,6 +13,7 @@ collection some links for work
 
 ## JavaScript ：
 
+[阮一峰博客地址牛逼](http://www.ruanyifeng.com/blog/)
 
 
 ## Android ：
