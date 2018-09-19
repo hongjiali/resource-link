@@ -47,3 +47,5 @@ https://developer.android.com/docs/
 [AWS——亚马逊云服务(比阿里云划算)](https://aws.amazon.com/cn/?nc2=h_lg)
 
 [学习并发编程的一个免费去处（并发编程网）](http://ifeve.com/)
+
+[吾爱破解网——特别多破解软件](https://www.52pojie.cn/)
