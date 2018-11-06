@@ -58,3 +58,7 @@ collection some links for work
 [吾爱破解网——特别多破解软件](https://www.52pojie.cn/)
 
 [皮皮龟——看电影](http://www.jukantv.com/Animation/)
+
+[CodeOpen 在线预览运行JS网站](https://react.docschina.org/redirect-to-codepen/hello-world)
+
+[CodeSandbox 前端程序员必备在线调试网站](https://codesandbox.io/s/new)
